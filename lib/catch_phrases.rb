@@ -14,6 +14,6 @@ def link
 end
 
 def all_phrases
-  roush = 
+  roush = "It's-a me, Mario!" 
   
   
