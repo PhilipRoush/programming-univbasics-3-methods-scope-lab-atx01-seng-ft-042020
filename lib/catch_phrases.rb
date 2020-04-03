@@ -14,6 +14,6 @@ def link
 end
 
 def all_phrases
-  roush = "It's-a me, Mario!" 
+  roush = "It's-a me, Mario!" 'Thank You Mario! But Our Princess Is In Another Castle!' 
   
   
