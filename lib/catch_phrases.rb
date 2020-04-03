@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases
-  roush = "It's-a me, Mario!" + 'Thank You Mario! But Our Princess Is In Another Castle!' + "It's Dangerous To Go Alone! Take This."
+  roush = mario, toadstool, link
   puts roush
 end
   
